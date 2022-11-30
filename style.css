@@ -1,0 +1,27 @@
+.sign {
+    background-image: url("wood.png");
+    background-color: brown; 
+    height: 25%;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    vertical-align: center; 
+    padding: 10%;
+  }
+  table{
+      width: 80%;
+      height: auto;
+      border-collapse: collapse;
+      margin-top:10px;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  td{
+      text-align: center;
+      border: 10px solid;
+      border-color: black;
+      width: 50%;
+  }
+  img{
+    width: 60%;
+  }
+  
