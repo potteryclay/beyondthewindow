@@ -1,11 +1,13 @@
 .sign {
     background-image: url('wood.png');
-    background-color: brown; 
-    height: 25%;
+    height: 15%;
+    width: 80%;
     margin-bottom: 10%;
     margin-top: 10%;
     vertical-align: center; 
+    text-align: center;
     padding: 10%;
+    position:absolute;
   }
   table{
       width: 80%;
