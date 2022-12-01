@@ -40,7 +40,7 @@ a:hover{
   }
   .sign3 {
     background-image: url('wood.png');
-    min-width: 45%;
+    min-width: 25%;
     margin-top: 10px; 
     margin-left: auto;
     margin-right: auto;
@@ -65,10 +65,8 @@ a:hover{
 .windowtd {
   text-align: center;
   border: 35px solid;
-  border-image-source: url('wood.png');
   border-color: #89471e;
   width: 50%;
-  background-image: url('depth.png');
 }
 img{
   width: 60%;
