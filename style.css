@@ -41,7 +41,7 @@ a:hover{
   }
   .sign3 {
     background-image: url('wood.png');
-    min-width: 25%;
+    min-width: 35%;
     margin-top: 10px; 
     margin-left: auto;
     margin-right: auto;
@@ -49,7 +49,6 @@ a:hover{
     padding: 5%;
     display:block;
     background-size: contain;
-    background-repeat: repeat-x;
     float: left;
   }
 .window{
@@ -62,6 +61,14 @@ a:hover{
 }
 .basic {
   background-color:bisque;
+}
+.maptb{
+  display:block;
+  float:none;
+  position: absolute;
+  margin-top: 15%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .windowtd {
   text-align: center;
