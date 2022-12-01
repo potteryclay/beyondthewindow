@@ -48,7 +48,7 @@ a:hover{
     padding: 5%;
     display:block;
     background-size: contain;
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
     float: left;
   }
 .window{
