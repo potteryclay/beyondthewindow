@@ -51,6 +51,18 @@ a:hover{
     background-size: contain;
     float: left;
   }
+  .sign4 {
+    background-image: url('wood.png');
+    min-width: 35%;
+    margin-top: 10px; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 5%;
+    display:block;
+    background-size: contain;
+    float: none;
+  }
 .window{
     width: 80%;
     height: auto;
@@ -59,9 +71,6 @@ a:hover{
     margin-bottom: 10px;
     background-image: url('depth.png');
   border-collapse: collapse;
-}
-.basic {
-  background-color:bisque;
 }
 .maptb{
   display:block;
