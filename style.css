@@ -101,4 +101,9 @@ a:hover{
 img{
   width: 60%;
 }
+.floater{
+  display: block;
+  float: left;
+  margin-top: 10px;
+}
   
