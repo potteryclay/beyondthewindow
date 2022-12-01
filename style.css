@@ -1,3 +1,6 @@
+h2{
+  color: whitesmoke;
+}
 .home{
   background-image: url('bricks.png');
   background-size: cover;
@@ -5,7 +8,7 @@
 .sign {
     background-image: url('wood.png');
     min-height: 15%;
-    width: 90%;
+    min-width: 90%;
     margin-top: 10px; 
     margin-left: auto;
     margin-right: auto;
@@ -15,13 +18,20 @@
     background-size: contain;
     background-repeat: no-repeat;
   }
+.gloss{
+  background-color: white;
+  opacity: .3; 
+  min-height: 100%;
+  min-width: 100%;
+}
 .window{
     width: 80%;
     height: auto;
-    border-collapse: collapse;
-    margin-top: 25%;
+    margin-top: 5%;
     margin-left: auto;
     margin-right: auto;
+    background-color: white;
+  border-collapse: collapse;
 }
 td{
   text-align: center;
