@@ -2,6 +2,9 @@ h2{
   color: whitesmoke;
   font-size: 40pt;
 }
+h3{
+  color: whitesmoke;
+}
 a:hover{
   opacity: 0.7;
 }
@@ -35,12 +38,6 @@ a:hover{
     background-repeat: no-repeat;
     float: right;
   }
-.gloss{
-  background-color: white;
-  opacity: .3; 
-  min-height: 100%;
-  min-width: 100%;
-}
 .window{
     width: 80%;
     height: auto;
