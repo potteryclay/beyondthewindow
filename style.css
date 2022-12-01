@@ -2,14 +2,13 @@
     background-image: url('wood.png');
     height: 15%;
     width: 80%;
-    margin-bottom: 10%;
-    margin-top: 10%;
+    margin-top: 5%;
     vertical-align: center; 
     text-align: center;
     padding: 10%;
     position:absolute;
   }
-  table{
+  .window{
       width: 80%;
       height: auto;
       border-collapse: collapse;
