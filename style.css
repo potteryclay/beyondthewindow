@@ -11,6 +11,7 @@ a:hover{
 .home{
   background-image: url('bricks.png');
   background-size: cover;
+  min-height: 100%;
 }
 .sign {
     background-image: url('wood.png');
