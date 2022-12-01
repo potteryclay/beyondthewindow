@@ -13,6 +13,14 @@ a:hover{
   background-size: cover;
   min-height: 100%;
 }
+.backgr{
+  background-color:whitesmoke;
+  opacity: 0.5;
+  z-index: -1;
+  min-height: 50%;
+  width: 90%;
+  margin: auto auto auto auto;
+}
 .sign {
     background-image: url('wood.png');
     min-height: 15%;
