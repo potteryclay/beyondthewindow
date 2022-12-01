@@ -52,14 +52,15 @@ body{
   }
   .sign3 {
     background-image: url('wood.png');
-    min-width: 35%;
+    min-height: 25%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     vertical-align: bottom;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     float: left;
+    padding: 5%;
   }
   .sign4 {
     background-image: url('wood.png');
