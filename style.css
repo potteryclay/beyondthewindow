@@ -1,7 +1,6 @@
 .home{
   background-image: url('bricks.png');
   background-size: cover;
-  background-repeat: repeat-y;
 }
 .sign {
     background-image: url('wood.png');
@@ -16,21 +15,21 @@
     background-size: contain;
     background-repeat: no-repeat;
   }
-  .window{
-      width: 80%;
-      height: auto;
-      border-collapse: collapse;
-      margin-top: 25%;
-      margin-left: auto;
-      margin-right: auto;
-  }
-  td{
-      text-align: center;
-      border: 25px solid;
-      border-color: #89471e;
-      width: 50%;
-  }
-  img{
-    width: 60%;
-  }
+.window{
+    width: 80%;
+    height: auto;
+    border-collapse: collapse;
+    margin-top: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+  text-align: center;
+  border: 25px solid;
+  border-color: #89471e;
+  width: 50%;
+}
+img{
+  width: 60%;
+}
   
