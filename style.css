@@ -59,10 +59,10 @@ a:hover{
     background-image: url('depth.png');
   border-collapse: collapse;
 }
-.basic td{
+.basic {
   background-color:bisque;
 }
-td{
+.windowtd {
   text-align: center;
   border: 35px solid;
   border-image-source: url('wood.png');
