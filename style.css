@@ -59,7 +59,7 @@ a:hover{
     background-image: url('depth.png');
   border-collapse: collapse;
 }
-.basic{
+.basic td{
   background-color:bisque;
 }
 td{
