@@ -14,7 +14,7 @@ a:hover{
   min-height: 100%;
 }
 body{
-  background-color: darkgray;
+  background-color: #474646;
 }
 .backgr{
   background-color:whitesmoke;
@@ -71,7 +71,7 @@ body{
     margin-right: auto;
     text-align: center;
     display:block;
-    background-size: contain;
+    background-size: cover;
     float: none;
     background-repeat: no-repeat;
   }
