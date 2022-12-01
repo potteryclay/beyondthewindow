@@ -1,3 +1,8 @@
+.home{
+  background-image: url('bricks.png');
+  background-size: cover;
+  background-repeat: repeat-y;
+}
 .sign {
     background-image: url('wood.png');
     height: 15%;
@@ -7,6 +12,8 @@
     text-align: center;
     padding: 10%;
     position:absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
   }
   .window{
       width: 80%;
@@ -19,7 +26,7 @@
   td{
       text-align: center;
       border: 10px solid;
-      border-color: black;
+      border-color: #89471e;
       width: 50%;
   }
   img{
