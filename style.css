@@ -48,7 +48,8 @@ a:hover{
     text-align: center;
     padding: 5%;
     display:block;
-    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
     float: left;
   }
   .sign4 {
@@ -70,6 +71,8 @@ a:hover{
     margin-right: auto;
     margin-bottom: 10px;
     background-image: url('depth.png');
+    background-repeat: no-repeat;
+    background-size: cover;
   border-collapse: collapse;
 }
 .maptb{
