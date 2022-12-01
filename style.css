@@ -1,5 +1,6 @@
 h2{
   color: whitesmoke;
+  font-size: 40pt;
 }
 .home{
   background-image: url('bricks.png');
@@ -15,7 +16,7 @@ h2{
     text-align: left;
     padding: 5%;
     display:block;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
   }
 .gloss{
