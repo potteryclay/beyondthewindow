@@ -20,7 +20,7 @@ body{
   background-color:whitesmoke;
   opacity: 0.5;
   z-index: -1;
-  min-height: 500px;
+  height: 500px;
   width: 90%;
   margin: auto auto auto auto;
 }
@@ -69,8 +69,9 @@ body{
     text-align: center;
     display:block;
     background-size: cover;
-    float: none;
     background-repeat: no-repeat;
+    min-width: 35%;
+    max-height: 50%;
   }
 .window{
     width: 80%;
