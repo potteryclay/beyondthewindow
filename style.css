@@ -27,7 +27,7 @@ a:hover{
   }
   .sign2 {
     background-image: url('wood.png');
-    min-height: 15%;
+    min-height: 25%;
     margin-top: 10px; 
     margin-left: auto;
     margin-right: auto;
@@ -37,6 +37,19 @@ a:hover{
     background-size: contain;
     background-repeat: no-repeat;
     float: right;
+  }
+  .sign3 {
+    background-image: url('wood.png');
+    min-height: 25%;
+    margin-top: 10px; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 5%;
+    display:block;
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
   }
 .window{
     width: 80%;
